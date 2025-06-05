@@ -4,7 +4,6 @@ OntologyLink transforms how researchers discover collaborators and build knowled
 
 ### Prepared for EthBelgrade Hackathon
 Links for demo:
-[GoogleDrive](https://drive.google.com/file/d/1DPHCymaGZ709P2V6xOxMcq0hEWHxCCuA/view)
 [Youtube](https://youtu.be/svxIxHxLhY0)
 
 ## Getting Started
