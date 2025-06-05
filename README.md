@@ -57,6 +57,22 @@ For OriginTrail part do the following:
 3. add your private key, which is used for publishing data to DKG
 4. generate google API_KEY (https://aistudio.google.com/apikey) and add it to config
 
+If you prefer using [Notion](https://developers.notion.com/docs/mcp) or other note keeping tools, just add additional mcp configuraion.
+Notion example:
+```json
+{
+  "mcpServers": {
+    "notionApi": {
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"],
+      "env": {
+        "OPENAPI_MCP_HEADERS": "{\"Authorization\": \"Bearer ntn_****\", \"Notion-Version\": \"2022-06-28\" }"
+      }
+    }
+  }
+}
+```
+
 ### Try it out!
 Use our optimised prompt to generate summary of your research in Obsidian vault and publish your ontological profile to DKG. Interact with Claude by checking and aproving its results. Once data is published to DKG, Claude will return a link to your data.
 
