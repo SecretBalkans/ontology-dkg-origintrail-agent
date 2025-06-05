@@ -1,12 +1,11 @@
 # OntologyLink - Decentralized Knowledge Discovery for Researchers
 
-OntologyLink transforms how researchers discover collaborators and build knowledge networks by creating semantic profiles from personal research notes. Our intelligent analyzer processes researchers' Obsidian vaults, extracting deep knowledge patterns across various domains. The data is structured following specific schemas, creating omprehensive ontological profiles that map not just what you know, but how deeply you know it and how your knowledge connects across disciplines. Finally structured knowledge assets are published to OriginTrail's Decentralized Knowledge Graph (DKG), ensuring permanent, verifiable, and discoverable research profiles.
-
+OntologyLink transforms how researchers discover collaborators and build knowledge networks by creating semantic profiles from personal research notes. Our intelligent analyzer processes researchers' Obsidian vaults, extracting deep knowledge patterns across various domains. The data is structured following specific schemas, creating omprehensive ontological profiles that map not just what you know, but how deeply you know it and how your knowledge connects across disciplines. Finally structured knowledge assets are published to OriginTrail's Decentralized Knowledge Graph (DKG), ensuring permanent, verifiable, and discoverable research profiles. ([Agent Prompt](https://github.com/SecretBalkans/ontology-dkg-origintrail-agent/blob/main/AgentPrompt.md))
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js 18+ and npm
+- Optional: Node.js 18+ and npm
 - Obsidian with your research vault
 - Claude Desktop app (for MCP integration)
 - Git
