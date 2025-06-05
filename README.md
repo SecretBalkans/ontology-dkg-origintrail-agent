@@ -1,6 +1,12 @@
 # OntologyLink - Decentralized Knowledge Discovery for Researchers
 
 OntologyLink transforms how researchers discover collaborators and build knowledge networks by creating semantic profiles from personal research notes. Our intelligent analyzer processes researchers' Obsidian vaults, extracting deep knowledge patterns across various domains. The data is structured following specific schemas, creating omprehensive ontological profiles that map not just what you know, but how deeply you know it and how your knowledge connects across disciplines. Finally structured knowledge assets are published to OriginTrail's Decentralized Knowledge Graph (DKG), ensuring permanent, verifiable, and discoverable research profiles. ([Agent Prompt](https://github.com/SecretBalkans/ontology-dkg-origintrail-agent/blob/main/AgentPrompt.md))
+
+### Prepared for EthBelgrade Hackathon
+Links for demo:
+[GoogleDrive](https://drive.google.com/file/d/1DPHCymaGZ709P2V6xOxMcq0hEWHxCCuA/view)
+[Youtube](https://youtu.be/svxIxHxLhY0)
+
 ## Getting Started
 
 ### Prerequisites
