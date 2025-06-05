@@ -56,3 +56,11 @@ For OriginTrail part do the following:
 2. add the proper path to python executable in config
 3. add your private key, which is used for publishing data to DKG
 4. generate google API_KEY (https://aistudio.google.com/apikey) and add it to config
+
+### Try it out!
+Use our optimised prompt to generate summary of your research in Obsidian vault and publish your ontological profile to DKG. Interact with Claude by checking and aproving its results. Once data is published to DKG, Claude will return a link to your data.
+
+### Future Work
+1. robust server architecture to improve data structuring and analysis
+2. intelligent matching engine that runs on top of DKG and connects researchers with the common interests
+3. advanced privacy framework which allows selective data sharing
